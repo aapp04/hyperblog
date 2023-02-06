@@ -3,3 +3,5 @@ esta es una version de ejemplo
 en visual studio code 
 
 Mañana nos enfocaremos en su vida laboral
+
+pero esto es una 
