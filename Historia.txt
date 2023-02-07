@@ -4,6 +4,10 @@ en visual studio code
 
 Mañana nos enfocaremos en su vida laboral
 
+<<<<<<< HEAD
 esta es una prueba
 
 Esta es la tercera prueba 
+=======
+LA CABECERA TIENE UN MENSAJE NUEVO
+>>>>>>> cabecera
